@@ -1,0 +1,24 @@
+clear;
+type compact; 
+%(a)
+x=1;
+a=2;
+a1=log(x+x^2+a^2);
+disp(a1);
+%(b)
+t=1;
+b1=(exp(1)^(3*t)+(t^2)*sin(4*t))*(cos(3*t)^2);
+disp(b1);
+%(c)
+c1=4*((tan(1))^(-1));
+disp(c1);
+%(d)
+x=1;
+y=2;
+d1=sec(x)^2+cot(y);
+disp(d1);
+%(e)
+x=-1;
+a=2;
+e1=(cot(abs(x/a)))^(-1);
+disp(e1);
